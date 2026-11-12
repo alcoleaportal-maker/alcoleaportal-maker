@@ -1,91 +1,67 @@
 # Hi, I'm Albert 👋
 
-### Junior Backend Developer | Python
+### Junior Backend Developer · Python
 
-I'm an aspiring Backend Developer focused on building practical applications and developing solid software engineering skills.
+I build backend applications with **Python**, from object-oriented business logic to REST APIs backed by relational databases. I'm looking for my first role as a junior backend developer, where I can contribute to real projects and grow with a team.
 
-I work primarily with Python and I'm currently expanding my knowledge of backend development, REST APIs, relational databases and software architecture.
-
-I'm passionate about technology, problem-solving and continuous learning. My goal is to grow as a developer by building real-world projects and improving my technical skills.
+📍 Uruguay · 🌐 Open to junior backend opportunities (remote or on-site)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Core Technologies**
+**Core** (used in my projects)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,git,github,linux" alt="Python, FastAPI, SQLite, Git, GitHub, Linux" />
 </p>
 
-**Currently Learning**
+**Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL, Docker" />
 </p>
 
 **Exploring**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-- Backend development with Python.
-- Building REST APIs with FastAPI.
-- Relational database design and SQL.
-- Database integration and CRUD operations.
-- Improving code organization and software architecture.
-- Exploring software testing and application deployment.
 
 ---
 
 ## 💻 Featured Projects
 
-### Employee Management System
+### 🔹 Employee Management System
+A Python application for managing employee data, built with object-oriented programming and separated business logic.
 
-A Python project focused on employee management, business logic and object-oriented programming.
+- <!-- What it does: e.g. add, search, update and remove employees -->
+- <!-- Something you're proud of: e.g. validation, class design, error handling -->
+- **Stack:** Python
 
-**Technologies:** Python
+[View repository →](https://github.com/alcoleaportal-maker/employee-management-system)
 
-[View Repository](https://github.com/alcoleaportal-maker/employee-management-system)
+### 🔹 Employee Management API
+A REST API for managing employees, with database integration and full CRUD operations.
 
-### Employee Management API
+- <!-- Main endpoints: e.g. GET/POST/PUT/DELETE /employees -->
+- <!-- How data is validated and stored -->
+- **Stack:** Python, FastAPI, SQLite
 
-A backend project exploring REST API development, database integration and CRUD operations.
-
-**Technologies:** Python, FastAPI, SQLite
-
-[Explore my repositories](https://github.com/alcoleaportal-maker?tab=repositories)
-
----
-
-## 📚 Professional Development
-
-I'm continuously working to strengthen my backend development skills, focusing on:
-
-- Python programming and OOP.
-- FastAPI and REST API architecture.
-- SQL and relational databases.
-- Git and version control.
-- Software development best practices.
+[View repository →](https://github.com/alcoleaportal-maker/employee-management-api )
 
 ---
 
-## 📫 Contact Me
+## 🎯 Current Focus
 
-I'm open to junior backend developer opportunities, professional connections and collaborations.
-
-**Let's connect!**
-
-- 📧 Email: alcoleaportal@gmail.com
-- 💼 LinkedIn: linkedin.com/in/albert-alcolea-portal-90b712263
-- 🐙 GitHub: [alcoleaportal-maker](https://github.com/alcoleaportal-maker)
-- 📍 Location: Uruguay
+- Designing relational databases and writing SQL (MySQL).
+- Improving code organization and project structure.
+- Learning software testing and containerization with Docker.
 
 ---
 
-*Always learning. Always building. Always improving.* 
+## 📫 Let's Connect
+
+- 📧 [alcoleaportal@gmail.com](mailto:alcoleaportal@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/albert-alcolea-portal-90b712263)
+
